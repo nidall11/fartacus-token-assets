@@ -2,14 +2,15 @@
   "name": "Fartacus",
   "symbol": "FRTS",
   "description": "Champion of wind and freedom. The meme coin to rule them all.",
-  "image": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/fartacus.png",
+  "image": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/fartacus.png",
+        "uri": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
 }
+
