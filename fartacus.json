@@ -1,8 +1,14 @@
 {
   "name": "Fartacus",
   "symbol": "FRTS",
-  "description": "Champion of wind and freedom. The meme coin to rule them all.",
+  "description": "The meme token that smells like victory!",
+  "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
+  "attributes": [],
+  "collection": {
+    "name": "Fartacus Collection",
+    "family": "Fartacus"
+  },
   "properties": {
     "files": [
       {
@@ -10,7 +16,14 @@
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "2uG8qbrMsDjrmubnJpsTub3Vs43YYYamteKGqm9VVNQz",
+        "share": 100
+      }
+    ]
   }
 }
+
 
