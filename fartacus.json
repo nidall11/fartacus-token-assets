@@ -1,14 +1,12 @@
 {
   "name": "Fartacus",
   "symbol": "FRTS",
-  "description": "The meme token that smells like victory!",
-  "seller_fee_basis_points": 0,
+  "description": "The mightiest meme coin on Solana!",
   "image": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
+  "animation_url": null,
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 0,
   "attributes": [],
-  "collection": {
-    "name": "Fartacus Collection",
-    "family": "Fartacus"
-  },
   "properties": {
     "files": [
       {
@@ -17,13 +15,6 @@
       }
     ],
     "category": "image",
-    "creators": [
-      {
-        "address": "2uG8qbrMsDjrmubnJpsTub3Vs43YYYamteKGqm9VVNQz",
-        "share": 100
-      }
-    ]
+    "creators": null
   }
 }
-
-
