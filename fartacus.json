@@ -1,8 +1,28 @@
-
 {
   "name": "Fartacus",
   "symbol": "FRTS",
-  "uri": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
+  "description": "The legendary meme warrior of Web3.",
   "seller_fee_basis_points": 0,
-  "creators": null
+  "image": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
+  "external_url": "https://example.com",
+  "attributes": [],
+  "collection": {
+    "name": "Fartacus Collection",
+    "family": "Fartacus"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2uG8qbrMsDjrmubnJpsTub3Vs43YYYamteKGqm9VVNQz",
+        "share": 100
+      }
+    ]
+  }
 }
