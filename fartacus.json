@@ -1,19 +1,8 @@
+
 {
   "name": "Fartacus",
   "symbol": "FRTS",
-  "description": "The mightiest meme coin on Solana!",
-  "image": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
-  "animation_url": null,
+  "uri": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
   "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/nidall11/fartacus-token-assets/main/Fartacuslogo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": null
-  }
+  "creators": null
 }
